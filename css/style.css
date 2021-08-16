@@ -1,0 +1,29 @@
+body{
+    font: 20px helvetica, arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.navbar {
+    background-color:#ffffff;
+}
+
+.quem-somos{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.equipe{
+    background-color:rgb(155, 151, 151);
+    color:white;
+}
+.bg-footer{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    text-align: center;
+}
